@@ -27,7 +27,7 @@ const About = () => {
                 <br />
                   I'm minoring in Studio Art as well as Japanese.
                   <br />
-                  <br />I like all things related to video games, art, or the Japanese language.</b>
+                  <br />I like all things related to video games, art, or the Japanese language.
                   <br />
                   <br />
                   I also have a great liking for Godzilla. We share a birthday!
@@ -35,7 +35,6 @@ const About = () => {
                   <br />
                   I hope you enjoy my website!
                   <br />
-                  
                 </p>
               </Col>
               <Col md={4} className="myAvtar">
@@ -61,6 +60,7 @@ const About = () => {
                     >
                       <AiFillGithub />
                     </a>
+                    </li>
                 </ul>
               </Col>
             </Row>
