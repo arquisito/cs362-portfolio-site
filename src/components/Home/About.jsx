@@ -6,7 +6,6 @@ import {
   AiFillGithub
 } from "react-icons/ai";
 
-
 const About = () => {
     return (
         <Container fluid className="home-about-section" id="about">
