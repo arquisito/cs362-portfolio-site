@@ -5,7 +5,6 @@ import Tilt from "react-parallax-tilt";
 import {
   AiFillGithub
 } from "react-icons/ai";
-import { FaLinkedinIn } from "react-icons/fa";
 
 
 const About = () => {
